@@ -44,7 +44,7 @@ It also needs both :before and :after pseudoclasses to work, that's the only way
   .{{ post.url | remove: '/posts/' }}::before {
     background-image: url('{{ hero }}');
     background-size: cover;
-    -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
+    -webkit-filter: grayscale(0.05) brightness(0.9) contrast(0.9);
 
     content:'';
     position:absolute;

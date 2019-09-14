@@ -10,7 +10,7 @@ blog:
                                little pure's blog
 
 # Layout configuration
-  logo_path                  : "assets/img/one_piece.png" # path to logo file
+  logo_path                  : "assets/img/dactl.svg" # path to logo file
   search_path                : "littlepure2333.github.io"# "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
@@ -56,7 +56,7 @@ permalink                    : posts/:slug
 excerpt_separator            : <!–-break-–>
 
 # Pagination
-paginate                     : 5
+paginate                     : 6
 paginate_path                : '/page-:num/'
 
 # Tags
