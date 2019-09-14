@@ -7,11 +7,11 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : littlepure2333
   description                  : >
-                               this should contain a proper description
+                               little pure's blog
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  logo_path                  : "assets/img/one_piece.png" # path to logo file
+  search_path                : "littlepure2333.github.io"# "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -28,9 +28,9 @@ blog:
 author:
   fullname                  : little pure
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  mail                      : rz8217525@163.com # change to your e-mail address
   twitter                   : twitter-user-name
-  github                    : github-user-name
+  github                    : littlepure2333
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
