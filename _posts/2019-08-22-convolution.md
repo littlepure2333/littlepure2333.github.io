@@ -2,7 +2,7 @@
 layout: post
 title:  "深度学习中各种卷积总结"
 tags:
-  - 深度学习
+  - deeplearning
 hero: https://source.unsplash.com/collection/430471/
 
 published: true
