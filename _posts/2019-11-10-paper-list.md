@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition"
+title:  "Paper list"
 tags:
-  - 深度学习
-hero: https://source.unsplash.com/collection/430465/
+  - deeplearning
+hero: https://source.unsplash.com/collection/427433/
 
 published: true
 
