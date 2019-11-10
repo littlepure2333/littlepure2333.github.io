@@ -34,6 +34,10 @@ My paper list in PRIS
 
 # Graph networks
 
+[Semi-Supervised Classification with Graph Convolutional Networks](../resources/Semi-Supervised&#32;Classification&#32;with&#32;Graph&#32;Convolutional&#32;Networks.pdf)
+
+[DeepGCNs: Making GCNs Go as Deep as CNNs](../resources/DeepGCNs_Making&#32;GCNs&#32;Go&#32;as&#32;Deep&#32;as&#32;CNNs.pdf)
+
 [Graph Attention Networks](../resources/Graph&#32;Attention&#32;Networks.pdf)
 
 [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](../resources/Graph&#32;Matching&#32;Networks&#32;for&#32;Learning&#32;the&#32;Similarity&#32;of&#32;Graph&#32;Structured&#32;Objects.pdf)
