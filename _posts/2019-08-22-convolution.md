@@ -15,7 +15,7 @@ published: true
 <!–-break-–>
 
 > 参考论文：[A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)   
-> 卷积动画：https://github.com/vdumoulin/conv_arithmetic
+> 卷积动画：[https://github.com/vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
 
 ***************
 
@@ -62,7 +62,7 @@ $\bigtriangledown$ 卷积核大小为3、步长为1、填充为1的二维卷积
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190721134509769.png#pic_center)
 
-用\(x,C,z\)分别表示变换之后的输入、卷积核和输出，那么正常卷积就可以这样写：\(z = Cx\)   
+用$x,C,z$分别表示变换之后的输入、卷积核和输出，那么正常卷积就可以这样写：$z = Cx$        
 这个就是正常卷积的过程：由输入和卷积核得到输出。   
 那么反过来由输出和卷积核的**转置**就能得到输入：$x = C^Tz$   
 这就是转置卷积的由来。
