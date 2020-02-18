@@ -78,7 +78,7 @@ Just My Socks 5000	|5 G	|无限制	|5TB /月	|TCP & UDP	|$48.99 / 月	|[购买](
 之后点击 **Continue** 将套餐添加到购物车
 
 **结账**
-使用 Just My Socks 优惠码： JMS9272283
+使用 Just My Socks 优惠码： `JMS9272283`
 
 这个justmysocks优惠码拥有 5.2% 的优惠，也是目前唯一可用的justmysocks优惠码，并且续费可用。
 
