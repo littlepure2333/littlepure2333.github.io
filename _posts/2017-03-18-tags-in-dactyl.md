@@ -17,14 +17,14 @@ Please make sure to do the following for each tag:
 
 Create a .md file within `_my_tags` folder with the name of your category, e.g. `cool-stuff.md`. This file needs to look like this:
 
-~~~
+{% highlight yaml %}
 ---
 slug: cool-stuff
 name: Cool Stuff
 description: >
              This is an awesome description of my cool stuff tag which will be display underneath the title of this tag's page.
 ---
-~~~
+{% endhighlight %}
 
 `slug` is a mandatory field and defines tag's slug, accessible at `yourblog.com/tag/dactl/`, use `-` instead of spaces here.  
 `name` is a mandatory field and defines tag's name, e.g. `Cool Stuff`.  
