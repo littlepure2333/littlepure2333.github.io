@@ -7,11 +7,11 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : littlepure2333
   description                  : >
-                               little pure's blog
+                               A Buddha-like blog
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : "littlepure2333.github.io"# "yourgitusername.github.io"
+  search_path                : "littlepure2333.github.io" # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -29,11 +29,11 @@ author:
   fullname                  : little pure
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : rz8217525@163.com # change to your e-mail address
-  twitter                   : twitter-user-name
+  twitter                   : little_pure2333
   github                    : littlepure2333
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  disqus                    : littlepure2333 # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Permalinks
+# Permalinks   # Permalinks means permanent links
 permalink                    : posts/:slug
 
 # Posts
@@ -80,13 +80,13 @@ exclude                    : ["README.md", "README.html"]
 markdown: kramdown
 # !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
 # Since Jekyll 3 the default highlighter is Rouge (replaced Pygments.rb in v44)
-highlighter: pygments
-# highlighter: rouge
+# highlighter: pygments
+highlighter: rouge
 
 # More › http://kramdown.gettalong.org/quickref.html
 # Options › http://kramdown.gettalong.org/options.html
 kramdown:
-  input:          GFM
+  input: GFM
   # https://github.com/jekyll/jekyll/pull/4090
   syntax_highlighter: rouge
 
