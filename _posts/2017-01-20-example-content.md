@@ -44,7 +44,7 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est 
 
 Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
 
-{% highlight js linenos %}
+{% highlight js %}
 // Example can be run directly in your JavaScript console
 
 // Create a function that takes two arguments and returns the sum of those
