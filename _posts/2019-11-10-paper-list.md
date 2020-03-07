@@ -27,6 +27,8 @@ My paper list in undergraduate project
 
 [Bottom-Up Higher-Resolution Networks for Multi-Person Pose Estimation](../resources/Bottom-Up%20Higher-Resolution%20Networks%20for%20Multi-Person%20Pose%20Estimation.pdf)
 
+[Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](../resources/Self-Supervised%20Learning%20of%203D%20Human%20Pose%20using%20Multi-view%20Geometry.pdf)
+
 
 # Action recognition
 
@@ -49,6 +51,12 @@ My paper list in undergraduate project
 [Spatial temporal graph convolutional networks for skeleton-based dynamic hand gesture recognition](../resources/Spatial%20temporal%20graph%20convolutional%20networks%20for%20skeleton-based%20dynamic%20hand%20gesture%20recognition.pdf)
 
 [View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition](../resources/View%20Adaptive%20Neural%20Networks%20for%20High%20Performance%20Skeleton-based%20Human%20Action%20Recognition.pdf)
+
+[3D Human Pose Machines with Self-supervised Learning](../resources/3D%20Human%20Pose%20Machines%20with%20Self-supervised%20Learning.pdf)
+
+[An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data](../resources/An%20End-to-End%20Spatio-Temporal%20Attention%20Model%20for%20Human%20Action%20Recognition%20from%20Skeleton%20Data.pdf)
+
+[Human Action Recognition and Prediction_A Survey](../resources/Human%20Action%20Recognition%20and%20Prediction_A%20Survey.pdf)
 
 # Graph networks
 
@@ -79,3 +87,5 @@ My paper list in undergraduate project
 [The Kinetics Human Action Video Dataset](../resources/The%20Kinetics%20Human%20Action%20Video%20Dataset.pdf)
 
 [NTU RGB+D_A Large Scale Dataset for 3D Human Activity Analysis](../resources/NTU%20RGB+D_A%20Large%20Scale%20Dataset%20for%203D%20Human%20Activity%20Analysis.pdf)
+
+[action_recognition_tutorial](../resources/action_recognition_tutorial.pdf)
