@@ -13,7 +13,7 @@ My paper list in undergraduate project
 
 <!–-break-–>
 
-# Pose estimation
+# 2D Pose estimation
 
 [DeepPose: Human Pose Estimation via Deep Neural Networks](../resources/DeepPose_Human&#32;Pose&#32;Estimation&#32;via&#32;Deep&#32;Neural&#32;Networks.pdf)
 
@@ -29,6 +29,11 @@ My paper list in undergraduate project
 
 [Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](../resources/Self-Supervised%20Learning%20of%203D%20Human%20Pose%20using%20Multi-view%20Geometry.pdf)
 
+# 3D Pose Estimation
+
+[SMPL_A Skinned Multi-Person Linear Model](../resources/SMPL_A%20Skinned%20Multi-Person%20Linear%20Model.pdf)
+
+[VIBE_Video Inference for Human Body Pose and Shape Estimation](../resources/VIBE_Video%20Inference%20for%20Human%20Body%20Pose%20and%20Shape%20Estimation.pdf)
 
 # Action recognition
 
@@ -57,6 +62,10 @@ My paper list in undergraduate project
 [An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data](../resources/An%20End-to-End%20Spatio-Temporal%20Attention%20Model%20for%20Human%20Action%20Recognition%20from%20Skeleton%20Data.pdf)
 
 [Human Action Recognition and Prediction_A Survey](../resources/Human%20Action%20Recognition%20and%20Prediction_A%20Survey.pdf)
+
+# Temeporal Action Detection
+
+[Temporal Action Detection with Structured Segment Networks](../resources/An%20End-to-End%20Spatio-Temporal%20Attention%20Model%20for%20Human%20Action%20Recognition%20from%20Skeleton%20Data.pdf)
 
 # Graph networks
 
@@ -89,3 +98,5 @@ My paper list in undergraduate project
 [NTU RGB+D_A Large Scale Dataset for 3D Human Activity Analysis](../resources/NTU%20RGB+D_A%20Large%20Scale%20Dataset%20for%203D%20Human%20Activity%20Analysis.pdf)
 
 [action_recognition_tutorial](../resources/action_recognition_tutorial.pdf)
+
+[Multi-Label Image Recognition with Graph Convolutional Networks](../resources/Multi-Label%20Image%20Recognition%20with%20Graph%20Convolutional%20Networks.pdf)
