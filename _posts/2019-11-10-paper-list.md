@@ -63,11 +63,17 @@ My paper list in undergraduate project
 
 [Human Action Recognition and Prediction_A Survey](../resources/Human%20Action%20Recognition%20and%20Prediction_A%20Survey.pdf)
 
+[Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition](../resources/Spatial-Temporal%20Graph%20Convolutional%20Networks%20for%20Sign%20Language%20Recognition.pdf)
+
+[Temporal Pyramid Network for Action Recognition](../resources/Temporal%20Pyramid%20Network%20for%20Action%20Recognition.pdf)
+
 # Temeporal Action Detection
 
 [Temporal Action Detection with Structured Segment Networks](../resources/An%20End-to-End%20Spatio-Temporal%20Attention%20Model%20for%20Human%20Action%20Recognition%20from%20Skeleton%20Data.pdf)
 
-# Graph networks
+[2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning](../resources/2D_3D%20Pose%20Estimation%20and%20Action%20Recognition%20using%20Multitask%20Deep%20Learning.pdf)
+
+# Graph neural networks
 
 [graph neural network review](../resources/graph%20neural%20network%20review.pdf)
 
@@ -86,6 +92,8 @@ My paper list in undergraduate project
 [Inductive Representation Learning on Large Graphs](../resources/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)
 
 [Learning Graph Convolutional Network for Skeleton-based Human Action](../resources/Learning%20Graph%20Convolutional%20Network%20for%20Skeleton-based%20Human%20Action.pdf)
+
+[DROPEDGE: TOWARDS DEEP GRAPH CONVOLUTIONAL NETWORKS ON NODE CLASSIFICATION](../resources/DROPEDGE_TOWARDS%20DEEP%20GRAPH%20CONVOLUTIONAL%20NETWORKS%20ON%20NODE%20CLASSIFICATION.pdf)
 
 # Others
 
