@@ -22,6 +22,11 @@ published: true
 
 Hi, I'm littlepure, a newcomer of computer vision. I like to create, experience interesting things. I always believe in a word "one is born to do a big thing". And I wish I can live a life not for nothing.😎
 
-<img src="resources/Luffy_vs_Ulti.png" align="middle">
+![img](resources/Luffy_vs_Ulti.png)
+<img 
+    src="resources/Luffy_vs_Ulti.png" 
+    alt="Luffy vs Ulti"
+    align="middle"/>
+
 
 </div>
